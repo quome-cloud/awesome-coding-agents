@@ -5,7 +5,7 @@
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 [![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
-[![Stars](https://img.shields.io/github/stars/yourusername/awesome-coding-agents?style=social)](https://github.com/yourusername/awesome-coding-agents)
+[![Stars](https://img.shields.io/github/stars/quome-cloud/awesome-coding-agents?style=social)](https://github.com/quome-cloud/awesome-coding-agents)
 
 *A curated collection of autonomous coding agents that revolutionize software development*
 
