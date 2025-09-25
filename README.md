@@ -48,6 +48,7 @@
 - [**Cursor-Ai-Factory-Coder**](https://github.com/Fyr-Dev/Cursor-AI-Factory-Coder) - Fully autonomous AI coding factory system for Cursor IDE with automatic project context initialization and priority parsing
 - [**Roo-Cline**](https://github.com/aidrivencoder/Roo-Cline) - Advanced autonomous coding agent for IDEs with enhanced file creation, command execution, and browser integration capabilities
 - [**Huly-Coder**](https://github.com/hcengineering/huly-coder) - Lightweight autonomous AI coding agent with terminal-based UI, inspired by modern development workflows
+- [**VT Code**](https://github.com/vinhnx/vtcode) - VT Code is a Rust-based terminal coding agent that pairs a modern TUI with deep, semantic code understanding powered by tree-sitter and ast-grep.
 
 ## 🏗️ Multi-Agent Systems
 
