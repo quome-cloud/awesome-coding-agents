@@ -93,6 +93,7 @@
 
 > Essential tools and frameworks for building coding agents
 
+- [**Agent FM**](https://github.com/agentfm-ai/agent-fm) - Local macOS awareness layer for Claude Code and Codex sessions with station-level listening, Global Mix, and blocker alerts
 - [**Agentcraft**](https://github.com/Manak-hash/Agentcraft) - No-code platform for building autonomous AI agents using Agent Craft platform in minutes with intuitive drag-and-drop interface
 - [**Ai-Context-Engineering**](https://github.com/Krigsexe/AI-Context-Engineering) - ODIN: Autonomous AI Agent Framework with advanced context engineering - the ultimate solution for vibe coding
 - [**Sefaca**](https://github.com/defrecord/sefaca) - Safe Execution Framework for Autonomous Coding Agents - comprehensive security layer to prevent AI agents from compromising infrastructure
