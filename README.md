@@ -97,6 +97,9 @@
 - [**Ai-Context-Engineering**](https://github.com/Krigsexe/AI-Context-Engineering) - ODIN: Autonomous AI Agent Framework with advanced context engineering - the ultimate solution for vibe coding
 - [**Sefaca**](https://github.com/defrecord/sefaca) - Safe Execution Framework for Autonomous Coding Agents - comprehensive security layer to prevent AI agents from compromising infrastructure
 - [**Checkmate**](https://github.com/richardsondx/checkmate) - Spec Oracle Engine built for AI-driven development, verifying that autonomous agent code changes actually deliver intended functionality
+- [**ax**](https://github.com/Necmttn/ax) - Local telemetry and recall graph
+  for coding agents, with CLI, dashboard, and MCP access to sessions, tool
+  calls, skills, cost, and OTLP traces
 - [**Ai-Driven-Dev-Starter-Kit**](https://github.com/daktu32/ai-driven-dev-starter-kit) - Claude Code Development Starter Kit with comprehensive templates and guides for building multi-agent autonomous development systems
 
 ## 📚 Research & Academic Projects
