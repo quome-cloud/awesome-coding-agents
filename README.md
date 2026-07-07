@@ -95,6 +95,7 @@
 
 - [**Agentcraft**](https://github.com/Manak-hash/Agentcraft) - No-code platform for building autonomous AI agents using Agent Craft platform in minutes with intuitive drag-and-drop interface
 - [**Ai-Context-Engineering**](https://github.com/Krigsexe/AI-Context-Engineering) - ODIN: Autonomous AI Agent Framework with advanced context engineering - the ultimate solution for vibe coding
+- [**Tree-Ring-Memory**](https://github.com/TerminallyLazy/Tree-Ring-Memory) - Local-first memory lifecycle layer for AI coding agents with Rust CLI, SQLite/FTS recall, audit, forgetting, source-linked evidence, and terminal TUI
 - [**Sefaca**](https://github.com/defrecord/sefaca) - Safe Execution Framework for Autonomous Coding Agents - comprehensive security layer to prevent AI agents from compromising infrastructure
 - [**Checkmate**](https://github.com/richardsondx/checkmate) - Spec Oracle Engine built for AI-driven development, verifying that autonomous agent code changes actually deliver intended functionality
 - [**Ai-Driven-Dev-Starter-Kit**](https://github.com/daktu32/ai-driven-dev-starter-kit) - Claude Code Development Starter Kit with comprehensive templates and guides for building multi-agent autonomous development systems
