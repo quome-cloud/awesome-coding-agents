@@ -98,6 +98,7 @@
 - [**Sefaca**](https://github.com/defrecord/sefaca) - Safe Execution Framework for Autonomous Coding Agents - comprehensive security layer to prevent AI agents from compromising infrastructure
 - [**Checkmate**](https://github.com/richardsondx/checkmate) - Spec Oracle Engine built for AI-driven development, verifying that autonomous agent code changes actually deliver intended functionality
 - [**Ai-Driven-Dev-Starter-Kit**](https://github.com/daktu32/ai-driven-dev-starter-kit) - Claude Code Development Starter Kit with comprehensive templates and guides for building multi-agent autonomous development systems
+- [**ContextStream**](https://contextstream.io) - Shared project context for Cursor, Claude Code, Codex, and Grok ([MCP](https://mcp.contextstream.io/mcp) · [OSS](https://github.com/contextstream/mcp-server)). Intelligence isn’t the bottleneck. Context is.
 
 ## 📚 Research & Academic Projects
 
