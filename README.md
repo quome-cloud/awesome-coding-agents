@@ -78,6 +78,7 @@
 - [**Phoenix**](https://github.com/Dub1n/phoenix) - Advanced autonomous AI system generating complete software projects end-to-end with multi-agent architecture and specialized testing roles
 - [**Ourodev**](https://github.com/ShuoShenDe/OuroDev) - OuroDev: The ouroboros of programming - autonomous, next-generation developer agent that continuously self-improves and never sleeps
 - [**Neora**](https://github.com/Suborno-Deb-Bappon/neora) - Autonomous multi-agent system generating production-ready backend modules, frontend UIs, and comprehensive unit tests from software requirements
+- [**Orbi**](https://github.com/orbi-build/orbi) - Open-source (AGPL-3.0) self-hosted autonomous coding agent that turns labeled GitHub Issues into implemented, tested, and reviewed pull requests; also offered as a managed cloud at [orbi.build](https://orbi.build/?ref=gh-quome-aca)
 
 ## 🎨 Specialized Coding Agents
 
