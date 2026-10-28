@@ -78,6 +78,7 @@
 - [**Phoenix**](https://github.com/Dub1n/phoenix) - Advanced autonomous AI system generating complete software projects end-to-end with multi-agent architecture and specialized testing roles
 - [**Ourodev**](https://github.com/ShuoShenDe/OuroDev) - OuroDev: The ouroboros of programming - autonomous, next-generation developer agent that continuously self-improves and never sleeps
 - [**Neora**](https://github.com/Suborno-Deb-Bappon/neora) - Autonomous multi-agent system generating production-ready backend modules, frontend UIs, and comprehensive unit tests from software requirements
+- [**AppWizzy**](https://appwizzy.com/) - AI development platform that creates and edits web apps from prompts in dedicated cloud development VMs, with runtime templates and Git-backed source editing
 
 ## 🎨 Specialized Coding Agents
 
